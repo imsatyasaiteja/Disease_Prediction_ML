@@ -1,1 +1,2 @@
-# Disease_Prediction_Model
+# Disease Prediction Using Machine Learning
+
